@@ -1,0 +1,84 @@
+.Shop {
+    width: 100vw;
+    height: 800px;
+}
+.rectangle2 {
+    position: absolute;
+    width: 524px;
+    height: 345px;
+    left: 54%;
+    top: 1407px;
+    background: rgba(188, 154, 68, 0.4);}
+.image3 {
+    position: absolute;
+    width: 516px;
+    height: 345px;
+    left: 50%;
+    top: 1433px;
+}
+.shop-h2 {
+    position: absolute;
+    width: 329px;
+    height: 58px;
+    left: 5%;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+    
+    color: #000000;
+}
+.line-horizontal2 {
+    position: absolute;
+    width: 9px;
+    height: 44px;
+    left: -20px;
+    background: #E4D7B4;
+}
+.shop-p {
+    position: absolute;
+    width: 40%;
+    height: 210px;
+    left: 5%;
+    top: 1502px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    
+    letter-spacing: 0.1em;
+    
+    color: #827E7E;
+}
+.link-Shop {
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 5%;
+    top: 1781px;
+    padding-top: 1rem;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    border: 2px solid #BC9A44;
+    box-sizing: border-box;
+    color: #000000;
+}
+.line-vertical2 {
+    position: absolute;
+    width: 151px;
+    height: 0px;
+    left: 182px;
+    top: 1.5rem;
+    
+    border: 2px solid #000000;
+}

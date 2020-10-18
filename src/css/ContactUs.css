@@ -1,0 +1,94 @@
+.contactus-container {
+    width: 100vw;
+    height: 811px;
+    padding-top: 5%;
+}
+.contactus-h2 {
+    position: absolute;
+    width: 269px;
+    height: 49px;
+    left: 25%;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+.inp-firstname {
+    position: absolute;
+    width: 299px;
+    height: 31px;
+    left: 456px;
+    top: 3168px;
+
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+
+    color: #D3C08E;
+}
+.inp-lastname {
+    position: absolute;
+    width: 299px;
+    height: 31px;
+    left: 784px;
+    top: 3170px;
+
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+
+    color: #D3C08E;
+}
+.inp-email {
+    position: absolute;
+    width: 392px;
+    height: 32px;
+    left: 456px;
+    top: 3238px;
+
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+
+    color: #D3C08E;
+}
+.inp-message {
+    position: absolute;
+    left: 456px;
+    top: 3299px;
+    
+    border: 1px solid #BCB5B5;
+    box-sizing: border-box;
+    border-radius: 34px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+
+    color: #D3C08E;
+}

@@ -1,0 +1,80 @@
+.AboutUs {
+    width: 100vw;
+    height: 800px;
+}
+.rectangle {
+    position: absolute;
+    width: 334px;
+    height: 446px;
+    left: 5%;
+    top: 778px;
+    background: rgba(188, 154, 68, 0.4);
+}
+.image2 {
+    position: absolute;
+    width: 334px;
+    height: 445px;
+    left: 10%;
+    top: 819px;
+}
+.aboutus-h2 {
+    position: absolute;
+    width: 329px;
+    height: 28px;
+    left: 56%;
+    top: 849px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+.line-horizontal {
+    position: absolute;
+    left: -20px;
+    width: 9px;
+    height: 44px;
+    background: #E4D7B4;
+}
+.aboutus-p {
+    position: absolute;
+    width: 40%;
+    height: 210px;
+    left: 54%;
+    top: 911px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+    letter-spacing: 0.1em;
+    color: #827E7E;
+}
+.link-AboutUs {
+    position: absolute;
+    width: 204px;
+    height: 54px;
+    left: 54%;
+    top: 1175px;
+    border: 2px solid #BC9A44;
+    box-sizing: border-box;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #000000;
+    padding-top: 1rem;
+}
+.line-vertical {
+    position: absolute;
+    width: 151px;
+    height: 0px;
+    top: 1.5rem;
+    left: 11rem;
+}

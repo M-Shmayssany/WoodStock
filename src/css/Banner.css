@@ -1,0 +1,44 @@
+
+.container {
+  width: 100vw;
+  height: 65vh;
+  display: flex;
+}
+.img-container{
+  width: 50%;
+  height: 100%;
+}
+.image {
+  position: absolute;
+  width: 50vw;
+  height: 38rem;
+  background: url('../img/wood-right.jpg');
+
+  
+}
+.watermark {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+}
+h1 {
+  position: absolute;
+  letter-spacing: 2rem;
+  top: 19vh;
+  left: 42%;
+  width: 26vw;
+  color: white;
+  z-index: 1;
+  font-size: 4rem;
+  font-weight: 400;
+}
+.strip {
+  position: absolute;
+  top: 23%;
+  border: 3px solid #BC9A44;
+  width:6.8vw;
+  left: 3vw;
+  z-index: 2;
+}
+
